@@ -1,6 +1,6 @@
 # Chatbot-2
 
-This project is forked from [original project link](https://github.com/original-project-path).
+This project is forked from original project.
 
 ## Purpose
 
