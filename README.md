@@ -1,3 +1,14 @@
+# Chatbot-2
+
+This project is forked from [original project link](https://github.com/original-project-path).
+
+## Purpose
+
+This forked project is used for learning purposes. No changes or modifications have been made to the original code.
+
+
+
+
 # GPT-4 & LangChain - Create a ChatGPT Chatbot for Your PDF Files
 
 Use the new GPT-4 api to build a chatGPT chatbot for multiple Large PDF files.
